@@ -1,0 +1,68 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "ename": "girish",
+      "age": "24",
+      "city": "Noida",
+      "gender": "male",
+      "salary": "4567"
+    },
+    {
+      "id": 2,
+      "ename": "Satish Jha",
+      "age": "26",
+      "city": "Mumbai",
+      "gender": "Male",
+      "salary": "4785"
+    },
+    {
+      "ename": "Priya Jain",
+      "age": "22",
+      "city": "Delhi",
+      "gender": "Female",
+      "salary": "4567",
+      "id": 5
+    },
+    {
+      "ename": "Riya Kumari",
+      "age": "27",
+      "city": "Pune",
+      "gender": "Female",
+      "salary": "5678",
+      "id": 7
+    },
+    {
+      "ename": "Ajay",
+      "age": "50",
+      "city": "Noida",
+      "gender": "Male",
+      "salary": "5678",
+      "id": 8
+    },
+    {
+      "ename": "Kriti",
+      "age": "25",
+      "city": "Noida",
+      "gender": "Female",
+      "salary": "4578",
+      "id": 9
+    },
+    {
+      "ename": "Satish",
+      "age": "23",
+      "city": "Delhi",
+      "gender": "Male",
+      "salary": "50000",
+      "id": 10
+    },
+    {
+      "ename": "girish",
+      "age": "28",
+      "city": "dhoulpur",
+      "gender": "male",
+      "salary": "2000",
+      "id": 11
+    }
+  ]
+}
